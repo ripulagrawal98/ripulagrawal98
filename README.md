@@ -1,7 +1,7 @@
 ### Hey ! This is Ripul  Agrawal 👋
 #### Data Science Blogger | Android Developer
 
-#### Social Links:
+#### Social Links
 [![pas](https://img.shields.io/static/v1?&message=ripulagrawal&color=0e76a8&style=flat&label=linkedin)](https://www.linkedin.com/in/ripul-agrawal/)
 [![pas](https://img.shields.io/static/v1?&message=ripulagrawal&color=0000A0&style=flat&label=AnalyticsSteps)](https://www.analyticssteps.com/author/ripul-agrawal)
 [![pas](https://img.shields.io/static/v1?&message=ripulagrawal&color=00acee&style=flat&label=Twitter)](https://twitter.com/ripul_agrawal)
@@ -16,6 +16,20 @@ I have worked on Android Development with Firebase database as backend, Gmail-ad
     <br>Working on the several projects in the field of data science & computer vision and maintain blogs for the same
 - <b>Full Stack Developer Intern </b> at [Instavans Logistics](https://instavans.com/)<br>
       I have worked on various technologies includes Google App Script, Natural Language Processing and Exploratory data analysis.
+      
+#### Technologies
+-   Python - Pandas, Numpy, Matplotlib, Flask
+-   Image Processing - OpenCV
+-   Deep Learning - Keras
+-   Machine Learning - Exploratory Data Analysis
+-   Natural Language Processing
+-   Android Development - Flutter, Firbase, Android Studio
+
+####  Tools
+-   Android Studio
+-   Anaconda
+-   Visual Studio
+-   Google Collab
 
 - 🔭 I’m currently working on Image Processing and App Development
 - 🌱 I’m currently learning Flutter, Compute Vision 

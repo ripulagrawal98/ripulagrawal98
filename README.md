@@ -2,6 +2,9 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ripulagrawal98)
 
+#### Social Links:
+![linkedin](https://www.linkedin.com/in/ripul-agrawal/)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Computer Vision

@@ -34,7 +34,7 @@ I have worked on Android Development with Firebase database as backend, Gmail-ad
 #### Giving back to Society
 Here are some of my blogs which I have written to share my knowledge with others,
 -   [Streaming Live Motion Detection usign OpenCV](https://www.analyticssteps.com/blogs/streaming-live-motion-detection-using-opencv)
-    ![]((https://analyticssteps.com/backend/media/thumbnail/6810924/4792055_1594205530_oPEN-cV-23%20(1).jpg))
+    ![](https://analyticssteps.com/backend/media/thumbnail/6810924/4792055_1594205530_oPEN-cV-23%20(1).jpg)
 -   [Visualizing Geospatial Data with Kepler.gl](https://www.analyticssteps.com/blogs/visualizing-geospatial-data-keplergl)
 -   [OpenCV: Applications & Functions](https://www.analyticssteps.com/blogs/open-cv-applications-functions)
 -   [Building Telegram Chatbot with Dialogflow](https://www.analyticssteps.com/blogs/building-telegram-chatbot-dialogflow)

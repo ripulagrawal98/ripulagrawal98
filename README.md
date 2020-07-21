@@ -1,6 +1,8 @@
 ### Hey ! This is Ripul  Agrawal 👋
 #### Data Science Blogger | Android Developer
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ripulagrawal98.ripulagrawal98&title=visitors)
+
 #### Social Links
 [![pas](https://img.shields.io/static/v1?&message=ripulagrawal&color=0e76a8&style=flat&label=linkedin)](https://www.linkedin.com/in/ripul-agrawal/)
 [![pas](https://img.shields.io/static/v1?&message=ripulagrawal&color=0000A0&style=flat&label=AnalyticsSteps)](https://www.analyticssteps.com/author/ripul-agrawal)

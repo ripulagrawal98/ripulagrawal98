@@ -33,14 +33,14 @@ I have worked on Android Development with Firebase database as backend, Gmail-ad
 
 #### Giving back to Society
 Here are some of my blogs which I have written to share my knowledge with others,
--   (Streaming Live Motion Detection usign OpenCV)[https://www.analyticssteps.com/blogs/streaming-live-motion-detection-using-opencv]
--   (Visualizing Geospatial Data with Kepler.gl)[https://www.analyticssteps.com/blogs/visualizing-geospatial-data-keplergl]
--   (OpenCV: Applications & Functions)[https://www.analyticssteps.com/blogs/open-cv-applications-functions]
--   (Building Telegram Chatbot with Dialogflow)[https://www.analyticssteps.com/blogs/building-telegram-chatbot-dialogflow]
--   (Sentiment Analysis of YouTube Comments)[https://www.analyticssteps.com/blogs/sentiment-analysis-youtube-comments]
--   (Extracting & Pre-processing the YouTube Comments)[https://www.analyticssteps.com/blogs/extracting-pre-processing-youtube-comments]
--   (How to Extract & Analyze YouTube Data using YouTube API?)[https://www.analyticssteps.com/blogs/how-extract-analyze-youtube-data-using-youtube-api]
--   (Hand Gesture Classification using Deep Learning with Keras)[https://www.analyticssteps.com/blogs/hand-gesture-classification-using-deep-learning-keras]
+-   [Streaming Live Motion Detection usign OpenCV](https://www.analyticssteps.com/blogs/streaming-live-motion-detection-using-opencv)
+-   [Visualizing Geospatial Data with Kepler.gl](https://www.analyticssteps.com/blogs/visualizing-geospatial-data-keplergl)
+-   [OpenCV: Applications & Functions](https://www.analyticssteps.com/blogs/open-cv-applications-functions)
+-   [Building Telegram Chatbot with Dialogflow](https://www.analyticssteps.com/blogs/building-telegram-chatbot-dialogflow)
+-   [Sentiment Analysis of YouTube Comments](https://www.analyticssteps.com/blogs/sentiment-analysis-youtube-comments)
+-   [Extracting & Pre-processing the YouTube Comments](https://www.analyticssteps.com/blogs/extracting-pre-processing-youtube-comments)
+-   [How to Extract & Analyze YouTube Data using YouTube API?](https://www.analyticssteps.com/blogs/how-extract-analyze-youtube-data-using-youtube-api)
+-   [Hand Gesture Classification using Deep Learning with Keras](https://www.analyticssteps.com/blogs/hand-gesture-classification-using-deep-learning-keras)
 
 - 🔭 I’m currently working on Image Processing and App Development
 - 🌱 I’m currently learning Flutter, Compute Vision 

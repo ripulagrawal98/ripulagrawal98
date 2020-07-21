@@ -1,9 +1,11 @@
 ### Hey ! This is Ripul  Agrawal 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ripulagrawal98)
-
 #### Social Links:
-![linkedin](https://www.linkedin.com/in/ripul-agrawal/)
+[![pas](https://img.shields.io/static/v1?&message=ripulagrawal&color=0e76a8&style=flat&label=linkedin)](https://www.linkedin.com/in/ripul-agrawal/)
+[![pas](https://img.shields.io/static/v1?&message=ripulagrawal&color=0000A0&style=flat&label=AnalyticsSteps)](https://www.analyticssteps.com/author/ripul-agrawal)
+[![pas](https://img.shields.io/static/v1?&message=ripulagrawal&color=00acee&style=flat&label=Twitter)](https://twitter.com/ripul_agrawal)
+[![pas](https://img.shields.io/static/v1?&message=ripulagrawal&color=0e0e0e&style=flat&label=Medium)](https://medium.com/@ripulagrawal)
+
 
 Here are some ideas to get you started:
 

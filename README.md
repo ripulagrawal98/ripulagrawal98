@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ripulagrawal98)
 
 Here are some ideas to get you started:
 

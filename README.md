@@ -11,5 +11,11 @@
 Computer Vision and Data Science enthusiast with experience in Python and most of its libraries that include OpenCV, pandas, NumPy, matplotlib, sklearn, Keras, nltk, etc. I also have a keen interest in android development, natural language processing, deep learning apart from this I love to explore these technologies.<br>
 I have worked on Android Development with Firebase database as backend, Gmail-addon development using Google App Script, and integrated it with Natural language processing written in Python script, to serve as backend and for deployment used Heroku. Also, build a chatbot using Dialogflow, the framework provides by Google and later integrated it with Telegram.<br>
 
+#### Work Experience
+- <b>Data Science Blogger</b> at [Analytics Steps](https://www.analyticssteps.com/)
+    <br>Working on the several projects in the field of data science & computer vision and maintain blogs for the same
+- <b>Full Stack Developer Intern </b> at [Instavans Logistics](https://instavans.com/)<br>
+      I have worked on various technologies includes Google App Script, Natural Language Processing and Exploratory data analysis.
+
 - 🔭 I’m currently working on Image Processing and App Development
-- 🌱 I’m currently learning Flutter, Compute Vision
+- 🌱 I’m currently learning Flutter, Compute Vision 

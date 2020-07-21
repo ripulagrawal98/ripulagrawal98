@@ -47,6 +47,5 @@ Here are some of my blogs which I have written to share my knowledge with others
 -   [How to Extract & Analyze YouTube Data using YouTube API?](https://www.analyticssteps.com/blogs/how-extract-analyze-youtube-data-using-youtube-api)
 -   [Hand Gesture Classification using Deep Learning with Keras](https://www.analyticssteps.com/blogs/hand-gesture-classification-using-deep-learning-keras)
 ---
-
-- 🔭 I’m currently working on Image Processing and App Development
-- 🌱 I’m currently learning Flutter, Compute Vision 
+#### Contact Details
+-  ripulagrawal98@gmail.com
